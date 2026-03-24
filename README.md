@@ -1,5 +1,4 @@
-# online-yard-sale
-everything must go / fund my journey home
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
